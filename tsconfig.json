@@ -6,5 +6,18 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/user/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/user/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/admin/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/admin/tsconfig.spec.json"
+    }
+]
 }
